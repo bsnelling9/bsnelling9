@@ -24,5 +24,4 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 <br>
-<p><img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsnelling9&langs_count=8)]" alt="bsnelling9" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bsnelling9&show_icons=true&locale=en&layout=compact" alt="brodiesnelling" /></p>
