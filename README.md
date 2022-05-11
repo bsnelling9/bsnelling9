@@ -12,7 +12,8 @@ You can click the Preview link to take a look at your changes.
 
 <h3>About me</h3> 
 🎓 I'm a Full Stack Web Developer graduate from Brainstation Web Development Bootcamp  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> I am a certified AWS Certified Solutions Architect - Associate: 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+- I am a certified AWS Certified Solutions Architect - Associate: 
 - 💬 Ask me about my latest project: [Leep](https://github.com/bsnelling9/Leep)
  
 - :mailbox: How to reach me **brodiesnelling@gmail.com**
