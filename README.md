@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3>About me</h3> 
 🎓 I'm a Full Stack Web Developer graduate from Brainstation Web Development Bootcamp
-
+<br>
 <p><a href="https://www.credly.com/badges/3a435e50-de8a-44d2-814f-76b4a867926b?source=linked_in_profile">AWS Certified Solutions Architect - Associate</a></p>
 
 💬 Ask me about my latest project: [Leep](https://github.com/bsnelling9/Leep)
