@@ -3,7 +3,7 @@ bsnelling9/bsnelling9 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Brodie Snelling</h1>
-<h3 align="center">A passionate software developer from Canada, with a background in Mechanical Engineering and an AWS Certified Solutions Architect - Associate.</h3>
+<h3 align="center">I'm software enigineer currently working at Zea. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
