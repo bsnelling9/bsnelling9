@@ -15,8 +15,6 @@ I am currently working at Zea as a software developer.
 <br>
 <br>
 <p><a href="https://www.credly.com/badges/3a435e50-de8a-44d2-814f-76b4a867926b?source=linked_in_profile">AWS Certified Solutions Architect - Associate</a></p>
-
-💬 Ask me about my latest project: [Leep](https://github.com/bsnelling9/Leep)
  
 :mailbox: How to reach me: **brodiesnelling@gmail.com**
 
