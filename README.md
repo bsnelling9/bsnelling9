@@ -15,7 +15,9 @@ I am a software developer with a background in mechanical engineering, combining
 <br>
 <br>
 I am currently working at Zea as a Software Engineer.
+<br>
 Using a tech stack of: Typescript/JavaScript, Svelte, Tailwind CSS, Node.js (Fastify), Cypress, PNPM, and Firebase
+<br>
 <br>
 <p><a href="https://www.credly.com/badges/3a435e50-de8a-44d2-814f-76b4a867926b?source=linked_in_profile">AWS Certified Solutions Architect - Associate</a></p>
  
