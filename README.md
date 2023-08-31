@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 <h3>About me</h3> 
 I am a software developer with a background in mechanical engineering, combining both my engineering experience with my passion for problem-solving and innovation to craft efficient solutions to software challenges. I have experience in both front- and back-end development and thrive in applying analytical skills to streamline complex processes and deliver optimal outcomes.
 <br>
+<br>
 I am currently working at Zea as a software engineer.
 Using a tech stack of: Typescript/JavaScript, Svelte, Tailwind CSS, Node.js (Fastify), Cypress, PNPM, and Firebase
 <br>
