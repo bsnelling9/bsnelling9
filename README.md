@@ -9,14 +9,11 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 <a href="https://linkedin.com/in/brodie-snelling/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/brodie-snelling/" height="30" width="40" /></a>
 </p>
-
-<h3>About me</h3> 
-I am a software developer with a background in mechanical engineering, combining both my engineering experience with my passion for problem-solving and innovation to craft efficient solutions to software challenges. I have experience in both front- and back-end development and thrive in applying analytical skills to streamline complex processes and deliver optimal outcomes.
 <br>
 <br>
 I am currently working at Anfield Sensors.
 <br>
-Using a tech stack of: Typescript/JavaScript, Svelte, Tailwind CSS, Node.js (Fastify), Cypress, PNPM, and Firebase
+Using a tech stack of: Python, C#, Typescript/JavaScript, LabVIEW and more to write software for calibrating different sensor products
 <br>
 <br>
 <p><a href="https://www.credly.com/badges/3a435e50-de8a-44d2-814f-76b4a867926b?source=linked_in_profile">AWS Certified Solutions Architect - Associate</a></p>
